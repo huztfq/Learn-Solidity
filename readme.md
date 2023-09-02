@@ -1,5 +1,5 @@
-Title: Mastering Solidity: A Comprehensive Journey from Fundamentals to Advanced Techniques
-
+**Title**: Mastering Solidity: A Comprehensive Journey from Fundamentals to Advanced Techniques
+        
 Introduction:
 Welcome to our comprehensive online session dedicated to mastering Solidity, Ethereum's smart contract programming language. Solidity is the cornerstone of blockchain development, allowing you to create decentralized applications and smart contracts. Whether you're a developer aiming to enter the world of blockchain or an enthusiast eager to delve into decentralized technologies, this course will take you from Solidity basics to advanced proficiency.
 
